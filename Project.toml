@@ -1,0 +1,6 @@
+authors = ["Jonathan Bieler <jonathan.bieler@alumni.epfl.ch>"]
+name = "TestGtk"
+uuid = "f4f427aa-b293-11e8-18d8-0d152c760166"
+version = "0.1.0"
+
+[deps]
